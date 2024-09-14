@@ -15,6 +15,7 @@ The heart of this project was the **electrical system**, carefully designed and 
 
 
 ![Power circuit van Drawing of the eleectrical circuit](https://github.com/user-attachments/assets/05ececeb-6790-4f89-8ab7-348296bdfb45)
+![Built in setup](https://github.com/user-attachments/assets/1a2710d8-fdab-4f71-a1c4-92bde50a7d2f)
 
 
 ### What I Learned
